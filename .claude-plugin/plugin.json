@@ -5,11 +5,5 @@
   "author": {
       "name": "Edwin Dalorzo",
       "email": "edalorzo@paperlesspost.com"
-  }, 
-  "commands": "./commands",
-  "agents": "./agents",
-  "hooks": "./hooks",
-  "skills": "./skills",
-  "prompts": "./prompts",
-  "mcpServers": "./mcp-servers"
+  } 
 }
